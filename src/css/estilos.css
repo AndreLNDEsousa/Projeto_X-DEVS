@@ -141,4 +141,17 @@ body {
 .cartao.fundo-6 {
   background: url("../imagens/fundo-6.jpg") no-repeat;
 }
+ 
+footer > div > p {
+  text-align: center;
+  color: #ffffff;
+  background-color: #333333;
+  max-width: 340px;
+  margin: 5px auto;
+  display: flex;
+  opacity: .9;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+}
 
